@@ -26,6 +26,6 @@ O objetivo é **implementar a comunicação entre um servidor e múltiplos clien
 ---
 
 ## 📂 Estrutura do Código
-├── server.py # Código do servidor, responsável por gerenciar conexões e partidas
-├── client.py # Código base do cliente
-└── network.py # Classe responsável pela comunicação cliente-servidor (Network)
+server.py # Código do servidor, responsável por gerenciar conexões e partidas.
+client.py # Código base do cliente.
+network.py # Classe responsável pela comunicação cliente-servidor (Network).
